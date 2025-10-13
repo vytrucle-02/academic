@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Ho Chi Minh City University of Education</a>. Ho Chi Minh City, Vietnam.
+subtitle: vytrucle.judy@gmail.com
 
 profile:
   align: right
