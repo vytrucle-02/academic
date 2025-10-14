@@ -398,12 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/academic/books/the_godfather/";
-            },},{id: "news-admitted-to-the-psychology-program-at-ho-chi-minh-university-of-education",
-          title: 'Admitted to the Psychology program at Ho Chi Minh University of Education',
+            },},{id: "news-this-is-a-test-news-post",
+          title: 'This is a test news post.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/academic/news/announcement_1/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
