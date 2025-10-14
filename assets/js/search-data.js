@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/academic/books/the_godfather/";
-            },},{id: "news-this-is-a-test-news-post",
-          title: 'This is a test news post.',
+            },},{id: "news-admitted-to-the-psychology-program-at-ho-chi-minh-university-of-education",
+          title: 'Admitted to the Psychology program at Ho Chi Minh University of Education',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
