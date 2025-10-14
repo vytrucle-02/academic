@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/academic/books/the_godfather/";
-            },},{id: "news-oct-2025-invited-to-review-for-social-sciences-amp-amp-humanities-open-sep-2025-one-paper-accepted-to-discover-mental-health-sep-2025-invited-to-review-for-discover-psychology-jun-2025-one-paper-accepted-to-journal-of-health-and-social-sciences-feb-2025-invited-to-review-for-bmc-psychology-jan-2025-one-paper-accepted-to-discover-mental-health-jul-2024-graduated-with-a-bachelor-s-degree-in-psychology-with-a-very-good-classification-jun-2024-started-as-a-professional-trainee-at-hoa-sung-psychology-consultation-company-limited-apr-2024-successfully-defended-the-bachelor-graduation-thesis-with-a-score-of-9-0-10-0-at-ho-chi-minh-university-of-education-dec-2023-one-paper-accepted-to-journal-of-curriculum-and-teaching-jan-2023-started-an-internship-at-ho-chi-minh-city-regional-center-of-forensic-psychiatry-apr-2022-started-working-as-a-research-assistant-in-the-laboratory-under-the-supervision-of-ph-d-vinh-long-tran-chi-mar-2022-started-as-a-member-of-the-psychological-project-named-inpsychoout-oct-2020-admitted-to-the-psychology-program-at-ho-chi-minh-university-of-education",
-          title: '• Oct 2025: Invited to review for Social Sciences &amp;amp;amp; Humanities Open. •...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
