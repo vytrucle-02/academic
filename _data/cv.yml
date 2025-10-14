@@ -1,97 +1,100 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+basics:
+  name: Vy Trúc Lê
+  label: Psychologist
+  image: bio-pic.jpg
+  email: vytrucle.judy@gmail.com
+  phone: null
+  url: https://vytrucle-02.github.io/academic/
+  summary: >
+    I am a psychology graduate with experience in both research and clinical settings.
+    My research focuses on adverse childhood experiences and adult psychopathology.
+    I have completed clinical internships and currently serve as a journal reviewer.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+education:
+  - institution: Ho Chi Minh University of Education
+    studyType: Bachelor of Psychology
+    startDate: 2020
+    endDate: 2024
+    score: 9.0/10.0
+    thesis: "Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City"
+    advisor: MSc. Hoai-Duc Huynh-Tran
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+  - institution: Phan Ngoc Hien High School for the Gifted
+    studyType: High School
+    startDate: 2017
+    endDate: 2020
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+work:
+  - name: Hoa Sung Psychology Consultation Company Limited
+    position: Counseling and Psychotherapy Trainee
+    startDate: 2024-06
+    endDate: present
+    summary: >
+      Received intensive training in psychological counseling skills and practiced Cognitive Behavioral Therapy (CBT).
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+  - name: Ho Chi Minh City Regional Center of Forensic Psychiatry
+    position: Clinical Psychology Intern
+    startDate: 2023-01
+    endDate: 2024-02
+    summary: >
+      Gained experience using psychological assessment tools, including MMPI, MMSE, HAM-A/D, and Wechsler scales.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+  - name: InPsychOut Company Limited
+    position: Psychology Academic Content Leader
+    startDate: 2022-03
+    endDate: 2024-03
+    summary: >
+      Directed content teams and implemented academic psychology content to enhance community awareness of mental health.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+awards:
+  - title: Science and Engineering Competition - 2020
+    year: 2020
+    description: Second Prize - Cyberbullying Among Middle and High School Students
+  - title: Provincial Excellent Student Competition - 2019
+    year: 2019
+    description: Third Prize in History
+  - title: Provincial Excellent Student Competition - 2018
+    year: 2018
+    description: First Prize in History
+  - title: April 30th Olympic - 2018
+    year: 2018
+    description: Bronze Medal in History
+  - title: Summer Olympic in the Mekong Delta - 2018
+    year: 2018
+    description: Gold Medal in History
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+certificates:
+  - name: Supervised Therapeutic Counseling Practice
+    date: 2024-12
+    issuer: Hoa Sung Psychology Consultation Company Limited
+    hours: 178.5
+  - name: Cognitive Behavioral Therapy (CBT) in Counseling and Psychotherapy Practice
+    date: 2023-06
+    issuer: HUTECH
+  - name: Basic Statistics in Social Science and Educational Science Research
+    date: 2023-03
+    issuer: The University of Danang
+  - name: Psychology and Psychotherapy of Alfred Adler
+    date: 2023-01
+    issuer: VnPA
+  - name: Acceptance and Commitment Therapy (ACT) for Children and Adolescents
+    date: 2022-11
+    issuer: APPEA
+  - name: Applied Positive Psychology
+    date: 2022-07
+    issuer: VnPA
+  - name: Identifying and Evaluating Common Psychological Disorders in Children
+    date: 2021-11
+    issuer: HUTECH
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+languages:
+  - language: Vietnamese
+    fluency: Native
+  - language: English
+    fluency: Fluent
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+professional_service:
+  - title: Journal Reviewer
+    journals:
+      - BMC Psychology (Feb 2025)
+      - International Journal of Mental Health Promotion (Aug 2024)
