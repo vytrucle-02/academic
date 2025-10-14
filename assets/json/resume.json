@@ -6,7 +6,12 @@
     "email": "vytrucle.judy@gmail.com",
     "phone": "",
     "url": "https://vytrucle-02.github.io/academic/",
-    "summary": "I am a psychology graduate with experience in both research and clinical settings. My research focuses on the long-term effects of adverse childhood experiences and their associations with adult psychopathology. During my clinical internship at a forensic psychiatry center, I gained exposure to assessment and intervention processes. I also serve as a peer reviewer for international psychology journals. My current interests lie in cognitive-behavioral mechanisms underlying common adult disorders such as anxiety, depression, and trauma-related conditions.",
+    "summary": "I am a psychology graduate with experience in both research and clinical settings. "
+      + "My research focuses on the long-term effects of adverse childhood experiences and their associations "
+      + "with adult psychopathology. During my clinical internship at a forensic psychiatry center, I gained "
+      + "exposure to assessment and intervention processes. I also serve as a peer reviewer for international "
+      + "psychology journals. My current interests lie in cognitive-behavioral mechanisms underlying common "
+      + "adult disorders such as anxiety, depression, and trauma-related conditions.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -44,8 +49,8 @@
       "url": "https://hcmue.edu.vn",
       "area": "Psychology",
       "studyType": "Bachelor",
-      "startDate": "2020-08",
-      "endDate": "2024-06",
+      "startDate": "2020-08-01",
+      "endDate": "2024-06-30",
       "score": "9.0/10.0",
       "courses": [
         "Thesis: Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City",
@@ -57,8 +62,8 @@
       "location": "Ca Mau Province, Vietnam",
       "area": "",
       "studyType": "High School",
-      "startDate": "2018",
-      "endDate": "2020"
+      "startDate": "2018-08-01",
+      "endDate": "2020-06-30"
     }
   ],
   "work": [
@@ -66,8 +71,8 @@
       "name": "Hoa Sung Psychology Consultation Company Limited",
       "position": "Counseling and Psychotherapy Trainee",
       "url": "",
-      "startDate": "2024-06",
-      "endDate": "2024-12",
+      "startDate": "2024-06-01",
+      "endDate": "2024-12-31",
       "summary": "Received intensive training in psychological counseling skills and practiced Cognitive Behavioral Therapy (CBT).",
       "highlights": []
     },
@@ -96,14 +101,14 @@
       "organization": "Vietnam Psychotherapy Association (VnPA)",
       "position": "Member",
       "startDate": "2025-01-01",
-      "endDate": "Present",
+      "endDate": "2025-10-01",
       "summary": "Adhered to ethical and professional principles in therapeutic counseling practice."
     },
     {
       "organization": "Mr. Vinh-Long Tran-Chi’s Psychological Research",
       "position": "Member",
       "startDate": "2022-04-01",
-      "endDate": "Present",
+      "endDate": "2025-10-01",
       "summary": "Conducted research in educational and clinical psychology, published in SCOPUS-indexed journals, acquired hands-on experience in full research process including idea development, data collection, statistical analysis using SPSS and PLS-SEM, and academic writing."
     }
   ],
@@ -111,39 +116,39 @@
     {
       "position": "Journal Reviewer",
       "details": [
-        "Invited reviewer by BMC Psychology – Feb 2025",
-        "Invited reviewer by International Journal of Mental Health Promotion – Aug 2024"
+        "Invited reviewer by BMC Psychology – 2025-02-01",
+        "Invited reviewer by International Journal of Mental Health Promotion – 2024-08-01"
       ]
     }
   ],
   "awards": [
     {
       "title": "Science and Engineering Competition – Second Prize",
-      "date": "2020",
+      "date": "2020-12-01",
       "awarder": "Ca Mau Province",
       "summary": "Topic: Cyberbullying Among Middle and High School Students in Social Sciences and Humanities field."
     },
     {
       "title": "Provincial Excellent Student Competition – Third Prize",
-      "date": "2019",
+      "date": "2019-12-01",
       "awarder": "Ca Mau Province",
       "summary": "History field."
     },
     {
       "title": "Provincial Excellent Student Competition – First Prize",
-      "date": "2018",
+      "date": "2018-12-01",
       "awarder": "Ca Mau Province",
       "summary": "History field."
     },
     {
       "title": "April 30th Olympic – Bronze Medal",
-      "date": "2018",
+      "date": "2018-04-30",
       "awarder": "Le Hong Phong High School for the Gifted",
       "summary": "History field."
     },
     {
       "title": "Summer Olympic in the Mekong Delta – Gold Medal",
-      "date": "2018",
+      "date": "2018-07-01",
       "awarder": "Huynh Man Dat High School for the Gifted, Kien Giang Province",
       "summary": "History field."
     }
