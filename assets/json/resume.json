@@ -44,8 +44,8 @@
       "url": "https://hcmue.edu.vn",
       "area": "Psychology",
       "studyType": "Bachelor",
-      "startDate": "2020-08-01",
-      "endDate": "2024-06-30",
+      "startDate": "2020-08",
+      "endDate": "2024-06",
       "score": "9.0/10.0",
       "courses": [
         "Thesis: Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City",
@@ -57,8 +57,8 @@
       "location": "Ca Mau Province, Vietnam",
       "area": "",
       "studyType": "High School",
-      "startDate": "",
-      "endDate": ""
+      "startDate": "2018",
+      "endDate": "2020"
     }
   ],
   "work": [
@@ -66,8 +66,8 @@
       "name": "Hoa Sung Psychology Consultation Company Limited",
       "position": "Counseling and Psychotherapy Trainee",
       "url": "",
-      "startDate": "2024-06-01",
-      "endDate": "Present",
+      "startDate": "2024-06",
+      "endDate": "2024-12",
       "summary": "Received intensive training in psychological counseling skills and practiced Cognitive Behavioral Therapy (CBT).",
       "highlights": []
     },
