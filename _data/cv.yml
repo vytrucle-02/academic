@@ -5,8 +5,8 @@
       institution: Ho Chi Minh University of Education, Ho Chi Minh City, Vietnam
       year: 2020-2024
       description:
-        - "Thesis: 'Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City' (9.0/10.0)"
-        - "Advisor: MSc. Hoai-Duc Huynh-Tran"
+        - Thesis: "Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City" (9.0/10.0)
+        - Advisor: MSc. Hoai-Duc Huynh-Tran
     - title: High School
       institution: Phan Ngoc Hien High School for the Gifted
       year: null
@@ -17,52 +17,87 @@
   contents:
     - title: Counseling and Psychotherapy Trainee
       institution: Hoa Sung Psychology Consultation Company Limited, Ho Chi Minh City, Vietnam
-      year: "Jun 2024–Now"
+      year: Jun 2024–Now
       description:
-        - "Received intensive training in psychological counseling skills and practiced Cognitive Behavioral Therapy (CBT)."
+        - Received intensive training in psychological counseling skills and practiced Cognitive Behavioral Therapy (CBT).
     - title: Clinical Psychology Intern
       institution: Ho Chi Minh City Regional Center of Forensic Psychiatry, Ho Chi Minh City, Vietnam
-      year: "Jan 2023–Feb 2024"
+      year: Jan 2023–Feb 2024
       description:
-        - "Gained experience through observation and training in the use of psychological assessment tools, including the MMPI, MMSE, HAM-A/D, and Wechsler scales."
+        - Gained experience through observation and training in the use of psychological assessment tools, including MMPI, MMSE, HAM-A/D, and Wechsler scales.
     - title: Psychology Academic Content Leader
       institution: InPsychOut Company Limited, Hanoi Capital, Vietnam
-      year: "Mar 2022–Mar 2024"
+      year: Mar 2022–Mar 2024
       description:
-        - "Directed content teams and implemented academic psychology content to enhance community awareness of mental health."
+        - Directed content teams and implemented academic psychology content to enhance community awareness of mental health.
 
 - title: Memberships
-  type: list
+  type: time_table
   contents:
-    - "Member of VnPA (Vietnam Psychotherapy Association), Vietnam. 2025"
-    - "Adhered to ethical and professional principles in therapeutic counseling practice."
-    - "Member of Mr. Vinh-Long Tran-Chi’s Psychological Research, Vietnam Apr 2022 - Now"
-    - "Conducted research in educational and clinical psychology, published in SCOPUS-indexed journals."
-    - "Acquired hands-on experience in the full research process, including idea development, data collection, statistical analysis using SPSS and PLS-SEM, and academic writing."
+    - title: Member of VnPA (Vietnam Psychotherapy Association)
+      institution: Vietnam
+      year: 2025
+      description:
+        - Adhered to ethical and professional principles in therapeutic counseling practice.
+    - title: Member of Mr. Vinh-Long Tran-Chi’s Psychological Research
+      institution: Vietnam
+      year: Apr 2022–Now
+      description:
+        - Conducted research in educational and clinical psychology, published in SCOPUS-indexed journals.
+        - Acquired hands-on experience in the full research process, including idea development, data collection, statistical analysis using SPSS and PLS-SEM, and academic writing.
 
 - title: Professional Service
-  type: list
+  type: time_table
   contents:
-    - "Journal Reviewer"
-    - "Invited reviewer by BMC Psychology – Feb 2025"
-    - "Invited reviewer by International Journal of Mental Health Promotion – Aug 2024"
+    - title: Journal Reviewer
+      institution: null
+      year: null
+      description:
+        - Invited reviewer by BMC Psychology – Feb 2025
+        - Invited reviewer by International Journal of Mental Health Promotion – Aug 2024
 
 - title: Awards
-  type: list
+  type: time_table
   contents:
-    - "Science and Engineering Competition - 2020 (Hosted by Ca Mau Province) – Second Prize with topic 'Cyberbullying Among Middle and High School Students' in Social Sciences and Humanities field."
-    - "Provincial Excellent Student Competition - 2019 (Hosted by Ca Mau Province) – Third prize in History field."
-    - "Provincial Excellent Student Competition - 2018 (Hosted by Ca Mau Province) – First prize in History field."
-    - "April 30th Olympic - 2018 (Hosted by Le Hong Phong High School for the Gifted, HCMC) – Bronze Medal prize in History field."
-    - "Summer Olympic in the Mekong Delta - 2018 (Hosted by Huynh Man Dat High School for the Gifted, Kien Giang Province) – Gold Medal prize in History field."
+    - title: High School
+      institution: null
+      year: 2018-2020
+      description:
+        - Science and Engineering Competition - 2020 (Ca Mau Province) – Second Prize: “Cyberbullying Among Middle and High School Students”
+        - Provincial Excellent Student Competition - 2019 (Ca Mau Province) – Third prize in History
+        - Provincial Excellent Student Competition - 2018 (Ca Mau Province) – First prize in History
+        - April 30th Olympic - 2018 (Le Hong Phong High School for the Gifted, HCMC) – Bronze Medal in History
+        - Summer Olympic in the Mekong Delta - 2018 (Huynh Man Dat High School for the Gifted, Kien Giang Province) – Gold Medal in History
 
 - title: Selected Certificates
-  type: list
+  type: time_table
   contents:
-    - "[Jun 2024 – Dec 2024] Completed 178.5 Hours of Supervised Therapeutic Counseling Practice, Hoa Sung Psychology Consultation Company Limited, Vietnam."
-    - "[Jun 2023] Cognitive Behavioral Therapy (CBT) in Counseling and Psychotherapy Practice, HUTECH (Ho Chi Minh University of Technology), Vietnam."
-    - "[Mar 2023] Basic Statistics in Social Science and Educational Science Research, The University of Danang, Vietnam."
-    - "[Jan 2023] Psychology and Psychotherapy of Alfred Adler, VnPA (Vietnam Psychotherapy Association), Vietnam."
-    - "[Nov 2022] Acceptance and Commitment Therapy (ACT) for Children and Adolescents, APPEA (Association francophone de Psychologie et de Psychopathologie de l'Enfant et de l'Adolescent), France."
-    - "[Jul 2022] Applied Positive Psychology, VnPA (Vietnam Psychotherapy Association), Vietnam."
-    - "[Nov 2021] Identifying and Evaluating Common Psychological Disorders in Children, HUTECH (Ho Chi Minh University of Technology), Vietnam."
+    - title: Practiced therapeutic counseling under supervision
+      institution: Hoa Sung Psychology Consultation Company Limited, Vietnam
+      year: Jun 2024–Dec 2024
+      description:
+        - Completed 178.5 Hours of Supervised Therapeutic Counseling Practice
+    - title: Cognitive Behavioral Therapy (CBT) in Counseling and Psychotherapy Practice
+      institution: HUTECH (Ho Chi Minh University of Technology), Vietnam
+      year: Jun 2023
+      description: []
+    - title: Basic Statistics in Social Science and Educational Science Research
+      institution: The University of Danang, Vietnam
+      year: Mar 2023
+      description: []
+    - title: Psychology and Psychotherapy of Alfred Adler
+      institution: VnPA (Vietnam Psychotherapy Association), Vietnam
+      year: Jan 2023
+      description: []
+    - title: Acceptance and Commitment Therapy (ACT) for Children and Adolescents
+      institution: APPEA (Association francophone de Psychologie et de Psychopathologie de l'Enfant et de l'Adolescent), France
+      year: Nov 2022
+      description: []
+    - title: Applied Positive Psychology
+      institution: VnPA (Vietnam Psychotherapy Association), Vietnam
+      year: Jul 2022
+      description: []
+    - title: Identifying and Evaluating Common Psychological Disorders in Children
+      institution: HUTECH (Ho Chi Minh University of Technology), Vietnam
+      year: Nov 2021
+      description: []
