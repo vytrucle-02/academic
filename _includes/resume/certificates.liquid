@@ -18,7 +18,7 @@
               {% assign i = i | plus: 1 %}
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
-              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+              <a href="{{ content.url | default: '#' }}">{{ content.name }}</a>
             </td>
           </tr>
           <tr>
@@ -26,7 +26,12 @@
             <td class="list-group-name">
               <b>{{ content.issuer }}</b>
             </td>
-            <td class="list-group-name">{{ content.date }}</td>
+            <td class="list-group-name">
+              {% if content.date %}
+                {{ content.date | date: "%b %Y" }}
+                {# 👆 chỉ hiển thị tháng + năm, ví dụ: Jun 2023 #}
+              {% endif %}
+            </td>
           </tr>
         </tbody>
       </table>
