@@ -47,10 +47,8 @@
       "startDate": "2020-08",
       "endDate": "2024-06",
       "score": "9.0/10.0",
-      "courses": [
-        "Thesis: Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City",
-        "Advisor: MSc. Hoai-Duc Huynh-Tran"
-      ]
+      "thesis": "Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City",
+      "advisor": "MSc. Hoai-Duc Huynh-Tran"
     },
     {
       "institution": "Phan Ngoc Hien High School for the Gifted",
