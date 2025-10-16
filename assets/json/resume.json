@@ -42,10 +42,9 @@
       "institution": "Ho Chi Minh University of Education",
       "location": "Ho Chi Minh City, Vietnam",
       "url": "https://hcmue.edu.vn",
-      "area": "Psychology",
-      "studyType": "Bachelor",
-      "startDate": "2020-08",
-      "endDate": "2024-06",
+      "studyType": "Bachelor of Psychology",
+      "startDate": "2020",
+      "endDate": "2024",
       "score": "9.0/10.0",
       "thesis": "Attitudes Toward Seeking Professional Psychological Help Among Students with Adverse Childhood Experiences in Ho Chi Minh City",
       "advisor": "MSc. Hoai-Duc Huynh-Tran"
@@ -55,7 +54,7 @@
       "location": "Ca Mau Province, Vietnam",
       "area": "",
       "studyType": "High School",
-      "startDate": "2018",
+      "startDate": "2017",
       "endDate": "2020"
     }
   ],
