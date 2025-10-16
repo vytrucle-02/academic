@@ -30,7 +30,7 @@ email: vytrucle.judy@gmail.com # your email address
 linkedin_username: vy-truc-le-a10155276 # your LinkedIn user name
 orcid_id: 0009-0002-1008-2380 # your ORCID ID
 scholar_userid: pnxR0u0AAAAJ # your Google Scholar ID
-research_gate_profile: https://www.researchgate.net/profile/Vy-Le-121?ev=hdr_xprf # your ResearchGate profile
+research_gate_profile: "https://www.researchgate.net/profile/Vy-Le-121?ev=hdr_xprf" # your ResearchGate profile
 
 # medium_username: # your Medium username
 # osf_id: # your OSF ID
@@ -38,7 +38,7 @@ research_gate_profile: https://www.researchgate.net/profile/Vy-Le-121?ev=hdr_xpr
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # rss_icon: true # comment this line to hide the RSS icon
-scopus_id: https://www.scopus.com/authid/detail.uri?authorId=58889167400 # your profile on Scopus
+scopus_id: "https://www.scopus.com/authid/detail.uri?authorId=58889167400" # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
