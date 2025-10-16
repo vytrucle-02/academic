@@ -506,6 +506,13 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Vy-Le-121?ev=hdr_xprf/", "_blank");
         },
       },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=58889167400", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
