@@ -39,8 +39,8 @@
   },
   "education": [
     {
-      "institution": "Ho Chi Minh University of Education",
-      "location": "Ho Chi Minh City, Vietnam",
+      "institution": "Ho Chi Minh University of Education, HCMC",
+      "location": "Vietnam",
       "url": "https://hcmue.edu.vn",
       "studyType": "Bachelor of Psychology",
       "startDate": "2020",
@@ -50,8 +50,8 @@
       "advisor": "MSc. Hoai-Duc Huynh-Tran"
     },
     {
-      "institution": "Phan Ngoc Hien High School for the Gifted",
-      "location": "Ca Mau Province, Vietnam",
+      "institution": "Phan Ngoc Hien High School for the Gifted, Ca Mau Province",
+      "location": "Vietnam",
       "area": "",
       "studyType": "High School",
       "startDate": "2017",
