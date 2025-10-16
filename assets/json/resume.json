@@ -120,81 +120,88 @@
     {
       "title": "Science and Engineering Competition – Second Prize",
       "date": "2020",
-      "awarder": "Ca Mau Province",
+      "awarder": "Hosted by Ca Mau Province",
       "summary": "Topic: Cyberbullying Among Middle and High School Students in Social Sciences and Humanities field."
     },
     {
       "title": "Provincial Excellent Student Competition – Third Prize",
       "date": "2019",
-      "awarder": "Ca Mau Province",
+      "awarder": "Hosted by Ca Mau Province",
       "summary": "History field."
     },
     {
       "title": "Provincial Excellent Student Competition – First Prize",
       "date": "2018",
-      "awarder": "Ca Mau Province",
+      "awarder": "Hosted by Ca Mau Province",
       "summary": "History field."
     },
     {
       "title": "April 30th Olympic – Bronze Medal",
       "date": "2018",
-      "awarder": "Le Hong Phong High School for the Gifted",
+      "awarder": "Hosted by Le Hong Phong High School for the Gifted, HCMC",
       "summary": "History field."
     },
     {
       "title": "Summer Olympic in the Mekong Delta – Gold Medal",
       "date": "2018",
-      "awarder": "Huynh Man Dat High School for the Gifted, Kien Giang Province",
+      "awarder": "Hosted by Huynh Man Dat High School for the Gifted, Kien Giang Province",
       "summary": "History field."
     }
   ],
   "certificates": [
     {
       "name": "Completed 178.5 Hours of Supervised Therapeutic Counseling Practice",
-      "date": "2024-12-01",
+      "date": "2024-12",
       "issuer": "Hoa Sung Psychology Consultation Company Limited",
+      "type": "Supervised practicum",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Cognitive Behavioral Therapy (CBT) in Counseling and Psychotherapy Practice",
-      "date": "2023-06-01",
-      "issuer": "HUTECH, Vietnam",
+      "date": "2023-06",
+      "issuer": "Ho Chi Minh City University of Technology (HUTECH), Vietnam",
+      "type": "Online course",
       "url": "",
       "icon": "fa-solid fa-brain"
     },
     {
       "name": "Basic Statistics in Social Science and Educational Science Research",
-      "date": "2023-03-01",
+      "date": "2023-03",
       "issuer": "The University of Danang, Vietnam",
+      "type": "Online course", 
       "url": "",
       "icon": "fa-solid fa-chart-bar"
     },
     {
       "name": "Psychology and Psychotherapy of Alfred Adler",
-      "date": "2023-01-01",
-      "issuer": "VnPA, Vietnam",
+      "date": "2023-01",
+      "issuer": "Vietnam Psychotherapy Association (VnPA), Vietnam",
+      "type": "Online course",
       "url": "",
       "icon": "fa-solid fa-user"
     },
     {
       "name": "Acceptance and Commitment Therapy (ACT) for Children and Adolescents",
-      "date": "2022-11-01",
-      "issuer": "APPEA, France",
+      "date": "2022-11",
+      "issuer": "Association francophone de Psychologie et de Psychopathologie de l'Enfant et de l'Adolescent (APPEA), France",
+      "type": "Online course",
       "url": "",
       "icon": "fa-solid fa-child"
     },
     {
       "name": "Applied Positive Psychology",
-      "date": "2022-07-01",
-      "issuer": "VnPA, Vietnam",
+      "date": "2022-07",
+      "issuer": "Vietnam Psychotherapy Association (VnPA), Vietnam",
+      "type": "Online course",
       "url": "",
       "icon": "fa-solid fa-smile"
     },
     {
       "name": "Identifying and Evaluating Common Psychological Disorders in Children",
-      "date": "2021-11-01",
-      "issuer": "HUTECH, Vietnam",
+      "date": "2021-11",
+      "issuer": "Ho Chi Minh City University of Technology (HUTECH), Vietnam",
+      "type": "Online course",
       "url": "",
       "icon": "fa-solid fa-search"
     }
