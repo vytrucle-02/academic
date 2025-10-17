@@ -44,7 +44,14 @@
 
           {% if content.thesis %}
             <p class="ml-1 ml-md-4" style="font-size: 0.9rem;">
-              <strong>Thesis:</strong> {{ content.thesis }}
+              <strong>Thesis:</strong>
+              {% if content.thesisUrl %}
+                <a href="{{ content.thesisUrl }}" target="_blank" rel="noopener noreferrer">
+                  {{ content.thesis }}
+                </a>
+              {% else %}
+                {{ content.thesis }}
+              {% endif %}
             </p>
           {% endif %}
 
